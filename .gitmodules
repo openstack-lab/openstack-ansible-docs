@@ -1,0 +1,4 @@
+[submodule "kilo"]
+	path = kilo
+	url = git@github.com:virtualtech/openstack-ansible-docs.git
+	branch = kilo
