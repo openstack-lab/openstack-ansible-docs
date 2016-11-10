@@ -2,3 +2,7 @@
 	path = kilo
 	url = git@github.com:virtualtech/openstack-ansible-docs.git
 	branch = kilo
+[submodule "mitaka"]
+	path = mitaka
+	url = git@github.com:virtualtech/openstack-ansible-docs.git
+	branch = mitaka
